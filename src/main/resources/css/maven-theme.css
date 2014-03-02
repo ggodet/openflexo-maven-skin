@@ -293,3 +293,11 @@ blockquote {
     border-left: 1px solid #DFDEDE;
     padding-left: 1em;
 }
+#navcolumn a {
+  color: #FF0000;
+  text-indent: 19px;
+}
+#navcolumn li ul li a {
+  color: #FF0000;
+  text-indent: 35px;
+}
